@@ -1,5 +1,9 @@
 SOG Panel — X-UI (Heimdall) + Nginx Reverse Proxy + Subscription Page
 
+برای آموزش کار با پنل لطفا این ویدیو تماشا شود 
+https://m.youtube.com/watch?v=xp-FuS5LTk4
+لایک و فالو و کامنت فراموش نشه
+
 پنل مدیریت کاربران Heimdall (نسخه‌ی بهبودیافته‌ی 3x-ui) به همراه پروکسی معکوس Nginx و صفحه‌ی اشتراک اختصاصی، همگی در یک کانتینر Docker با برند SOG.
 پنل، ساب‌اسکریپشن و اینباند VLESS/WebSocket از طریق یک پورت واحد (همان 3000 که Nginx روی آن گوش می‌دهد) در دسترس قرار می‌گیرند.
 
